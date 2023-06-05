@@ -5,24 +5,9 @@
   text-align: center;
 }
 
-h1 {
-  font-size: larger;
-  font-weight: 800;
-  color: azure;
+body {
+  background-color: bisque;
+  border-style: groove;
+  width: auto;
+  height: auto;
 }
-
-/* mobile
-@media (max-width: 767px) {
-}
-
-small screen
-@media (min-width: 768px) {
-}
-
-mediam screen
-@media (min-width: 992px) {
-}
-
-large screen
-@media (min-width: 1200px) {
-} */
